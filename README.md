@@ -1,6 +1,6 @@
 # vignelli
 
-Originally create by Robbie Manson:
+Originally created by Robbie Manson:
 
 http://robbiemanson.com/resources/vignelli-minimal-tumblr-theme/
 
